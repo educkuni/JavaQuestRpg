@@ -1,0 +1,13 @@
+{
+  "name": "edu",
+  "heroClass": "Mage",
+  "level": 2,
+  "maxHp": 100,
+  "currentHp": 96,
+  "maxMana": 115,
+  "currentMana": 115,
+  "attack": 30,
+  "defense": 6,
+  "xp": 150,
+  "potions": 3
+}
